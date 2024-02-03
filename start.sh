@@ -1,6 +1,7 @@
-# Don't Remove Credit @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot @Tech_VJ
-# Ask Doubt on telegram @KingVJ01
+# Don't Remove Credit @thomas_shelby_0_7
+# Subscribe YouTube Channel For Amazing Bot @tamil_rockerz1
+# Ask Doubt on telegram @thomas_shelby_0_7
+
 
 if [ -z $UPSTREAM_REPO ]
 then
