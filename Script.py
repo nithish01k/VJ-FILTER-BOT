@@ -209,7 +209,7 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ :@tamil_linkz1" {file_name}
+    CAPTION = """<@tamil_linkz1>📂Fɪʟᴇɴᴀᴍᴇ :@tamil_linkz1 {file_name}
 
 <b> Size ⚙️: {file_size}</b>""" 
 
