@@ -209,7 +209,7 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """@tamil_linkz1</b>📂Fɪʟᴇɴᴀᴍᴇ :@tamil_linkz1 {@tamil_linkz1file_name}
+    CAPTION = """@tamil_linkz1</b>📂Fɪʟᴇɴᴀᴍᴇ :@tamil_linkz1 {file_name}
 
 <b> Size ⚙️: {file_size}</b>""" 
 
@@ -676,13 +676,13 @@ Also your tutorial will be Added Your Group..."""
     DEVELOPER_TXT = """
 special Thanks To ❤️ Developers -
 
--Dev 1 [Owner of this bot ]<a href='https://t.me/thomas_shelby_0_7'>ⁱᵗᶻ ᵐᵉ ᵗᵍ 🇮🇳</a>
+-Dev 1 [Owner of this bot ]<a href='https://t.me/thomas_shelby_0_7'>ⁱᵗᶻ ᵐᵉ Thomas🇮🇳</a>
 
--Dev 2 <a href='https://t.me/tamil_rockerz1'>VJ</a>
+-Dev 2 <a href='https://t.me/tamil_rockerz1'>tmlinkzz</a>
 
--Dev 3 <a href='https://t.me/tamil_rockerz1'>Jᴏᴇʟ </> TɢX</a>
+-Dev 3 <a href='https://t.me/tamil_rockerz1'>Thomas </> TɢX</a>
 
-- Dev 4 <a href='https://t.me/tamil_rockerz1'>TEAM VJ</a>
+- Dev 4 <a href='https://t.me/tamil_rockerz1'>tmf boyz</a>
 """
 
 
